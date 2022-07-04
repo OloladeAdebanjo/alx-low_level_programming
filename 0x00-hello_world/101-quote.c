@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <unisd.h>
-
 /**
  * main - prints exactly "and that piecee of art is useful"
  * - Dora Korpar, 2015-10-19",
