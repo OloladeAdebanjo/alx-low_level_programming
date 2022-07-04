@@ -1,8 +1,8 @@
-#include<stdio.h>
-/**
-* main -entry point
-* Return: Always 0 (sucess)
-*/
+#include <stdio.h>
+/
+ * main -entry point
+ * Return: Always 0 (sucess)
+ */
 int main(void)
 {
 printf("with proper grammer, but the
